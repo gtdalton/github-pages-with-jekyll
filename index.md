@@ -1,3 +1,3 @@
-# Welcome to my Tom's learnign GitHub Page
+# Welcome to my Tom's learning GitHub Pages Page!
 
-This page is created with Marddown, saved as a file called 'index.md'
+This page is created with Markdown, saved as a file called 'index.md'
