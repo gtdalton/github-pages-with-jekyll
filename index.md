@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my Tom's learnign GitHub Page
 
-I'm glad you are here. I plan to talk about ...
+This page is created with Marddown, saved as a file called 'index.md'
