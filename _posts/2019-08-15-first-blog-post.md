@@ -1,3 +1,7 @@
+title: "First-Blog"
+date: 2019-08-15
+
+
 # Medical AI Network
 
 On Tueaday I attended a meeting of people interested in learning about AI and its use in healthcare.
