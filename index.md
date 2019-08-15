@@ -3,4 +3,4 @@
 This page is created with Markdown, saved as a file called 'index.md'
 
 
-Link to <a href="_posts/first-blog.md">First Blog Post</a>
+Link to <a href="_posts/2019-08-15-first-blog-post.md">First Blog Post</a>
