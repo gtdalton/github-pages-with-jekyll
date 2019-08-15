@@ -1,6 +1,7 @@
+----
 title: "First-Blog"
 date: 2019-08-15
-
+----
 
 # Medical AI Network
 
